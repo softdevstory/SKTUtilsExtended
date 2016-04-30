@@ -1,2 +1,33 @@
+[![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 # SKTUtilsExtended
 2D game library SKTUtils extended version.
+
+## Installation with Carthage
+
+[Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency manager that builds your dependencies and provides you with binary frameworks.
+
+You can install Carthage with [Homebrew](http://brew.sh/) using the following command:
+
+```bash
+$ brew update
+$ brew install carthage
+```
+
+To integrate SKTUtilsExtended into your Xcode project using Carthage, specify it in your `Cartfile`:
+
+```ogdl
+github "softdevstory/SKTUtils" "master"
+```
+
+Run `carthage` to build the framework and drag the built `SKTUtilsExtended.framework` into your Xcode project.
+
+### `Build Phase` run script for Carthage
+
+Add new run script like following image.
+
+![Build Phase Screen Shot](build_phase_screen_shot.png)
+
+# Licenses
+
+* SKTUtils - [Copyright (c) 2013-2014 Razeware LLC](SKTUtils/LICENSE.txt)
