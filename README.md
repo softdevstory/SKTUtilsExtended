@@ -2,7 +2,7 @@
 
 # SKTUtilsExtended
 
-2D game library SKTUtils extended version.
+2D game library [SKTUtils](https://github.com/raywenderlich/SKTUtils) extended version.
 
 This suppoorts iOS and tvOS.
 
