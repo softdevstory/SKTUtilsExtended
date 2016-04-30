@@ -1,7 +1,10 @@
 [![Carthage Compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 # SKTUtilsExtended
+
 2D game library SKTUtils extended version.
+
+This suppoorts iOS and tvOS.
 
 ## Installation with Carthage
 
