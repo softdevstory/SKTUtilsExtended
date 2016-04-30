@@ -20,7 +20,7 @@ $ brew install carthage
 To integrate SKTUtilsExtended into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
-github "softdevstory/SKTUtils" >= 0.1
+github "softdevstory/SKTUtilsExtended" >= 0.1
 ```
 
 Run `carthage` to build the framework and drag the built `SKTUtilsExtended.framework` into your Xcode project.
