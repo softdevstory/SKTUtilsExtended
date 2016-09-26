@@ -26,7 +26,7 @@ github "softdevstory/SKTUtilsExtended" >= 0.1
 
 for Swift 3.0
 ```ogdl
-github "softdevstory/SKTUtilsExtended" >= 0.1
+github "softdevstory/SKTUtilsExtended" >= 0.2
 ```
 
 
