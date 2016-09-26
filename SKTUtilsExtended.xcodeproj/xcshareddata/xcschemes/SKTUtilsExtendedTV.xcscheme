@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0800"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A49007DA1CD4B9650046DAC8"
-               BuildableName = "SKTUtilsExtendedTV.framework"
+               BuildableName = "SKTUtilsExtended.framework"
                BlueprintName = "SKTUtilsExtendedTV"
                ReferencedContainer = "container:SKTUtilsExtended.xcodeproj">
             </BuildableReference>
@@ -46,7 +46,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A49007DA1CD4B9650046DAC8"
-            BuildableName = "SKTUtilsExtendedTV.framework"
+            BuildableName = "SKTUtilsExtended.framework"
             BlueprintName = "SKTUtilsExtendedTV"
             ReferencedContainer = "container:SKTUtilsExtended.xcodeproj">
          </BuildableReference>
@@ -64,7 +64,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A49007DA1CD4B9650046DAC8"
-            BuildableName = "SKTUtilsExtendedTV.framework"
+            BuildableName = "SKTUtilsExtended.framework"
             BlueprintName = "SKTUtilsExtendedTV"
             ReferencedContainer = "container:SKTUtilsExtended.xcodeproj">
          </BuildableReference>
